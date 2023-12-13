@@ -1,1 +1,3 @@
-#pragma once
+#ifndef __HelloWorld
+#define __HelloWorld
+#endif
